@@ -40,11 +40,6 @@
   url: elizafishman
   group: 1
 
-- name: Jamie Thivener
-  photo: jamiethivener.png
-  info: MPH Student
-  url: jamiethivener
-  group: 1
 
 
 - name: Xiaoyan Hu
@@ -52,6 +47,13 @@
   info: Senior Research Associate, Data Management
   url: xiaoyanhu
   group: 2
+
+- name: Stacie Loisate
+  photo: stacieloisate.jpeg
+  info: Senior Research Associate, Data Management
+  url: stacieloisate
+  group: 2
+
 
 - name: Victoria Reynolds
   photo: victoriareynolds.jpeg
@@ -65,11 +67,14 @@
   url: erinoakley
   group: 2
 
-- name: Stacie Loisate
-  photo: stacieloisate.jpeg
-  info: Senior Research Associate, Data Management
-  url: stacieloisate
+- name: Sasha Baumann
+  photo: sashabaumann.jpeg
+  info: Senior Research Associate
+  url: sashabaumann
   group: 2
+  year: 2020-2022
+  extlink: https://www.linkedin.com/in/sashagb/
+
 
 - name: Jaime Marquis
   photo: jaimemarquis.png
@@ -83,7 +88,17 @@
   url: claraparsons
   group: 2
 
+- name: Molayo Ifebajo
+  photo: molayoifebajo.jpg
+  info: Research Assistant
+  url: molayoifebajo
+  group: 2
 
+- name: Precious Williams
+  photo: preciouswilliams.png
+  info: Research Assistant
+  url: preciouswilliams
+  group: 2
 
 # - name: Aileen Poquiz
 #   photo: aileenpoquiz.jpg
@@ -97,7 +112,7 @@
 #   url: lindsayliang
 #   group: 3
 
-- name: Siran He
+- name: Siran He, PhD
   photo: siranhe.jpg
   info: Postdoctoral Scholar
   url: siranhe
@@ -106,50 +121,120 @@
   current: Centers for Disease Control and Prevention
   extlink: https://www.linkedin.com/in/siranhe/
 
-- name: Sasha Baumann
-  photo: sashabaumann.jpeg
-  info: Senior Research Associate
-  url: sashabaumann
-  group: 8
-  year: 2020-2022
-  extlink: https://www.linkedin.com/in/sashagb/
-
-- name: Xiang Li
+- name: Xiang Li, PhD
   photo: xiangli.jpeg
   info: Senior Research Assistant
   url: xiangli
   group: 8
   year: 2021-2022
+  current: Capital One
   extlink: https://www.linkedin.com/in/xiang-li-505757129/
 
-- name: Gargi Wable Grandner
+- name: Gargi Wable Grandner, PhD
   photo: gargiwable.jpg
   info: Postdoctoral Scholar
   url: gargiwable
   group: 8
   year: 2021-2022
+  current: ACDI/VOCA
   extlink: https://www.linkedin.com/in/gargi-wable-grandner/
 
-- name: Dina Moradian
+- name: Dina Moradian, MPH
   photo: dinamoradian.png
   info: MPH Student
   url: dinamoradian
   group: 8
   year: 2020-2022
+  current: Children's National Hospital
   extlink: https://www.linkedin.com/in/dinamoradian128/
 
-- name: Allison Schwedock
+- name: Allison Schwedock, MPH
   photo: allisonschwedock.jpg
   info: MPH Student
   url: allisonschwedock
   group: 8
   year: 2022
+  current: GW Milken Institute School of Public Health
   extlink: https://www.linkedin.com/in/allison-schwedock-811752168/
 
-- name: Alexandra Bellows
+- name: Alexandra Bellows, PhD
   photo: alexabellows.jpg
   info: Senior Research Associate
   url: alexabellows
   group: 8
   year: 2021-2022
+  current: The University of Edinburgh
   extlink: https://www.linkedin.com/in/alexandra-bellows/
+
+- name: Jamie Thivener
+  photo: jamiethivener.png
+  info: MPH Student
+  url: jamiethivener
+  group: 8
+  year: 2022
+  current: John Snow, Inc (JSI)
+  extlink: https://www.linkedin.com/in/jamie-thivener-131061215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ2w7nDfDSOaDCaIXPNQumQ%3D%3D
+
+- name: Kacey Ferguson
+  photo: 
+  info: Research Assistant
+  url: kaceyferguson
+  group: 8
+  year: 2021-2022
+  current: NYU Grossman School of Medicine
+  extlink: https://www.linkedin.com/in/kacey-ferguson-479b86130/
+
+- name: Rebecca Zavala
+  photo: 
+  info: Project Manager
+  url: rebeccazavala
+  group: 8
+  year: 2021
+  current: Child and Adolescent Health Measurement Initiative (CAHMI) at JHSPH
+  extlink: https://www.linkedin.com/in/rebecca-zavala-6a1ba3158
+
+- name: Alexandra Fogel
+  photo: 
+  info: Research Assistant
+  url: alexandrafogel
+  group: 8
+  year: 2020-2021
+  current: Harvard University
+  extlink: https://www.linkedin.com/in/alexandrajfogel
+
+- name: Jamie Minchin, MPH
+  photo: 
+  info: MPH Student
+  url: jamieminchin
+  group: 8
+  year: 2020-2021 
+  current: Office of Country Support, Bureau of Global Health, USAID
+  extlink: https://www.linkedin.com/in/jamieminchin
+
+- name: Janay Johnson, MPH
+  photo: 
+  info: Research Assistant
+  url: janayjohnson
+  group: 8
+  year: 2020-2021
+  current: University of Maryland School of Public Health
+  extlink: https://www.linkedin.com/in/janaycjohnson/
+
+- name: Padmini Kucherlapaty, MsC, MPH
+  photo: 
+  info: Research Assistant
+  url: padminikucherlapaty
+  group: 8
+  year: 2020-2021
+  current: Truth Initiative
+  extlink: https://www.linkedin.com/in/padmini-k
+
+- name: Chioniso Jakazi, MPH
+  photo: 
+  info: Research Assistant
+  url: chionisojakazi
+  group: 8
+  year: 2019-2021
+  current: Howard University Hospital
+  extlink: https://www.linkedin.com/in/chioniso-jakazi
+
