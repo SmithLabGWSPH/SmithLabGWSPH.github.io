@@ -1,59 +1,61 @@
 ---
 title: "Smith Lab - Publications"
-layout: gridlay
+layout: homelay
 excerpt: "Smith Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
-
-# Publications
-
----
-
-## Featured
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
-  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <a class="pub2"> {{ publi.link.display }} </a>
- </div>
+<div class="container-fluid our-team">
+<section class="container">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
+<h1 class="w-txt">Publications</h1>
+<p class="a7-w-txt">Discover the Depth and Breadth of Our Academic Endeavors Through an Extensive Collection of Publications</p>
+</div>
+</section>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="container-fluid">
+<!-- Publication section starts here -->
+<section class="container">
+<div class="bx section-title-area-new">
+<h2 class="section-title">Featured</h2>
 </div>
-{% endif %}
 
-{% endif %}
+{% assign publications_by_year = site.data.publist | group_by: "year" %}
+{% for year_group in publications_by_year %}
+<div class="bx section-title-area-new">
+<h2 class="section-title">{{ year_group.name }}</h2>
+</div>
+<div class="bx recent-updates-list">
+{% for publi in year_group.items %}
+<div class="bx recent-bx">
+<div class="media clickable-div" data-href="{{ publi.link.url }}">
+<img src="{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="pub-cover" width="225" height="225" alt="{{ publi.title }}"> 
+</div>
+<div class="info clickable-div" data-href="{{ publi.link.url }}">
+<h3 class="title">{{ publi.title }}</h3>
+<h5 class="sub-txt">{{ publi.link.display }}</h5>
+</div>
+</div>
+{% endfor %}
+</div>
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+
+<div class="bx txt-a-c cta-wrapper">
+<a href="#" class="btn btn-primary">See Complete List</a>
 </div>
-{% endif %}
-
-<p> &nbsp; </p>
-
----
-
-<div>
-## Full List
-
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=qQx4iIwAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
-<br><br><br>
-
+</section>
+<!-- Publication section ends -->
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+document.querySelectorAll('.clickable-div').forEach(div => {
+div.addEventListener('click', function() {
+window.location.href = this.getAttribute('data-href');
+});
+});
+});
+</script>
