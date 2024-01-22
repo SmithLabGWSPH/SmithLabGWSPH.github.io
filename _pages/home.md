@@ -33,29 +33,19 @@ permalink: /
 <h6>Featured publications</h6>
 </div>
 <div class="bx recent-updates">
-<a href="https://www.science.org/doi/full/10.1126/sciadv.abj8016" class="bx recent-bx" target="_blank">
+<a href="https://gh.bmj.com/content/8/1/e009495.abstract" class="bx recent-bx" target="_blank">
 <div class="media">
-<img src="images/ScienceAdvances.png" width="225" height="225" alt="Science Advances">
+<img src="/images/pubpic/BMJ.jpg" width="300" height="300" alt="BMJ">
 </div>
 <div class="info">
-<h3 class="title">Limited data exist to inform our basic understanding of micronutrient requirements in pregnancy</h3>
-<h5 class="sub-txt">Smith et al. ScienceAdvances (2021)</h5>
-</div>
-</a>
-
-<a href="https://www.sciencedirect.com/science/article/pii/S2214109X17303716" class="bx recent-bx" target="_blank">
-<div class="media">
-<img src="images/sqaure-img-300px-01.jpg" width="300" height="300" alt="Science Advances">
-</div>
-<div class="info">
-<h3 class="title">Modifiers of the effect of maternal multiple micronutrient supplementation on stillbirth, birth outcomes, and infant mortality: a meta-analysis of individual patient data from 17 randomised trials in low-income and middle-income countries</h3>
-<h5 class="sub-txt">Smith et al. THE LANCET (2017)</h5>
+<h3 class="title">Adverse maternal, fetal, and newborn outcomes among pregnant women with SARS-CoV-2 infection: an individual participant data meta-analysis</h3>
+<h5 class="sub-txt">Smith et al. BMJ Global Health (2023)</h5>
 </div>
 </a>
 
 <a href="https://publications.aap.org/pediatrics/article/150/Supplement%201/e2022057092F/188648/Responsive-Feeding-for-Preterm-or-Low-Birth-Weight?autologincheck=redirected?nfToken=00000000-0000-0000-0000-000000000000" class="bx recent-bx" target="_blank">
 <div class="media">
-<img src="images/sqaure-img-300px-02.jpg" width="300" height="300" alt="Science Advances">
+<img src="images/pubpic/Pediatrics.jpeg" width="300" height="300" alt="Pediatrics">
 </div>
 <div class="info">
 <h3 class="title">Responsive Feeding for Preterm or Low Birth Weight Infants: A Systematic Review and Meta-analysis</h3>
@@ -63,18 +53,30 @@ permalink: /
 </div>
 </a>
 
-<a href="https://doi.org/10.1542/peds.2022-057092H" target="_blank" class="bx recent-bx">
+<a href="https://www.science.org/doi/full/10.1126/sciadv.abj8016" target="_blank" class="bx recent-bx">
 <div class="media">
-<img src="images/sqaure-img-300px-03.jpg" width="300" height="300" alt="Science Advances">
+<img src="images/pubpic/ScienceAdvances.png" width="300" height="300" alt="Science Advances">
 </div>
 <div class="info">
-<h3 class="title">Duration of Exclusive Breastfeeding for Preterm or Low Birth Weight Infants: A Systematic Review and Meta-analysis</h3>
-<h5 class="sub-txt">Yang et al. Pediatrics (2022)</h5>
+<h3 class="title">Limited data exist to inform our basic understanding of micronutrient requirements in pregnancy</h3>
+<h5 class="sub-txt">Smith et al. Science Advances (2021)</h5>
 </div>
 </a>
+
+<a href="https://jn.nutrition.org/article/S0022-3166(22)02045-4/fulltext" class="bx recent-bx" target="_blank">
+<div class="media">
+<img src="images/pubpic/JN.jpg" width="300" height="300" alt="The Journal of Nutrition">
 </div>
+<div class="info">
+<h3 class="title">The effect of maternal multiple micronutrient supplementation on female early infant mortality is fully mediated by increased gestation duration and intrauterine growth</h3>
+<h5 class="sub-txt">Smith et al. The Journal of Nutrition (2020)</h5>
+</div>
+</a>
+
+</div>
+
 <div class="bx txt-a-c cta-wrapper">
-<a href="/SmithLab.github.io/publications" class="btn btn-primary">View All Publications</a>
+<a href="/publications" class="btn btn-primary">View All Publications</a>
 </div>
 </section>
 <!--publication section ends-->
@@ -87,16 +89,16 @@ permalink: /
 </div>
 
 <div class="bx recent-updates">
-<a href="/SmithLab.github.io/research" class="bx research-bx">
+<a href="/research" class="bx research-bx">
 <div class="media">
-<img src="images/Prisma_main.png" width="552" height="552" alt="Research title goes here">
+<img src="images/Prisma_main.png" width="552" height="552" alt="PRISMA">
 </div>
 <div class="bx info">
 <h3 class="title">Pregnancy Risk and Infant Surveillance and Measurement Alliance Maternal and Newborn Health Study</h3>
 </div>
 </a>
 
-<a href="/SmithLab.github.io/research" class="bx research-bx">
+<a href="/research" class="bx research-bx">
 <div class="media">
 <img src="images/large-square-image-02.jpg" width="552" height="552" alt="Research title goes here">
 </div>
@@ -106,7 +108,7 @@ permalink: /
 </a>
 </div>
 <div class="bx txt-a-c cta-wrapper">
-<a href="/SmithLab.github.io/research" class="btn btn-primary">See All Research</a>
+<a href="/research" class="btn btn-primary">See All Research</a>
 </div>
 </section>
 <!--research section ends-->
