@@ -12,10 +12,10 @@ photo: jennykim.png
 ucsf: 
 ---
 
-### Overview
-
-Jenny is a research assistant with interests in infectious disease 
-control, management, and epidemiology, maternal and child health, and 
+<section class="container">
+<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-2-offset col-md-offset-2">
+<h4>Overview</h4>
+<p>Jenny is a research assistant with interests in infectious disease control, management, and epidemiology, maternal and child health, and 
 health system strengthening. As a member of the Smith Lab, Jenny is 
 participating in the COVID-19 prospective meta-analysis and assisting with 
 literature review and data analyses to research on the impact of different 
@@ -29,9 +29,13 @@ Seoul National University for national projects on cancer recurrence
 prediction, re-defining diabetes, and COVID-19 patient clinical 
 characterization, and research assistant at the USDA/ARS Trace Mineral Unit 
 to investigate the clinical effects of biofortified crops on iron and zinc 
-deficiencies.
-
-### Education
-
-BS, Biology and Society major, Nutritional Sciences minor, Cornell University, NY
-MPH, Global Health, Imperial College London, London, UK 
+deficiencies.</p>
+<div class="bx space4">&nbsp;
+</div>
+<h4>Education</h4>
+<ul>
+<li>BS, Biology and Society major, Nutritional Sciences minor, Cornell University, NY</li>
+<li>MPH, Global Health, Imperial College London, London, UK </li>
+</ul>
+</div>
+</section>

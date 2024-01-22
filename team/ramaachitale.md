@@ -13,13 +13,16 @@ photo: ramaachitale.jpg
 ucsf: 
 ---
 
-### Overview
-
-Ramaa is a DrPh student in the global health department at the George Washington University. Her research interests are in measuring, understanding, and improving health equity as it relates to maternal and child health. As a trainee at the Smith lab, Ramaa has been involved with research on the impact of feeding low birthweight infants, and  vitamin D supplementation for pregnant women.
-
-### Education
-
-MPH, Population and family health, Columbia University, NY
-
-BA, History,  Bowdoin College, ME
-
+<section class="container">
+<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-2-offset col-md-offset-2">
+<h4>Overview</h4>
+<p>Ramaa is a DrPh student in the global health department at the George Washington University. Her research interests are in measuring, understanding, and improving health equity as it relates to maternal and child health. As a trainee at the Smith lab, Ramaa has been involved with research on the impact of feeding low birthweight infants, and  vitamin D supplementation for pregnant women.</p>
+<div class="bx space4">&nbsp;
+</div>
+<h4>Education</h4>
+<ul>
+<li>MPH, Population and family health, Columbia University, NY</li>
+<li>BA, History,  Bowdoin College, ME</li>
+</ul>
+</div>
+</section>
