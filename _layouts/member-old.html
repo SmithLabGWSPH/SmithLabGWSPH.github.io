@@ -1,0 +1,137 @@
+---
+layout: default
+---
+
+{% assign member = page %}
+
+<div class="row">
+	<div class="col-sm-12">
+
+			<img class="pull-left pad-right content-photo" width="40%" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+
+				<div class="bigtitle">
+					{{ member.title }}
+				</div>
+				<p><div class="smallhead">
+					{{ member.position }}
+				</div></p>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-sm-3">
+
+<!-- GWU profile -->
+		{% if member.gwu %}
+		<div class="smallhead">
+			GWU Profile
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-university"></i>
+			<a class="off" href="https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/{{ member.gwu }}">{{ member.gwu }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Twitter -->
+		{% if member.twitter %}
+		<div class="smallhead">
+			Twitter
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-twitter fa-fw"></i>
+			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Github -->
+		{% if member.github %}
+		<div class="smallhead">
+			GitHub
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-github"></i>
+			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Google Scholar -->
+		{% if member.scholar %}
+		<div class="smallhead">
+			Google Scholar
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="ai ai-google-scholar"></i>
+			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Linkedin -->
+		{% if member.linkedin %}
+		<div class="smallhead">
+			LinkedIn
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-linkedin"></i>
+			<a class="off" href="https://www.linkedin.com/in/{{ member.linkedin }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- ResearchGate -->
+		{% if member.researchGate %}
+		<div class="smallhead">
+			ResearchGate
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="ai ai-google-scholar-square ai-1x"></i>
+			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchGate }}">{{ member.researchGate }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- ORCID -->
+		{% if member.orcid %}
+		<div class="smallhead">
+			ORCID
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-orcid"></i>
+			<a class="off" href="https://orcid.org/{{ member.orcid }}">{{ member.orcid }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Email -->
+		{% if member.email %}
+		{% assign emailarray = member.email | split: '@' %}
+		<div class="smallhead">
+			Email
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-inbox fa-fw"></i>
+			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+	</div>
+	<div class="col-sm-6" style="text-align:justify">
+		<i class="content" style="margin:auto">{{ content }}</i>
+
+	</div>
+
+</div>
