@@ -32,12 +32,12 @@ permalink: /team/
 {% if even_odd == 0 %}
 
 {% endif %}
-<div class="bx team-main-bx">
+<div class="bx team-main-bx clickable-div" data-href="{{ member.url }}">
 <div class="media">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="480" height="480" alt="{{ member.name }}">
 </div>
 <div class="info">
-<h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+<h4>{{ member.name }}</h4>
 <h5>{{ member.info }}</h5>
 </div>
 </div>
@@ -63,12 +63,12 @@ permalink: /team/
 <div class="bx recent-updates">
 {% for member in site.data.team_members %}
 {% if member.group == 1 %}
-<div class="bx trainee">
+<div class="bx trainee clickable-div" data-href="{{ member.url }}">
 <div class="media">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="320" height="320" alt="{{ member.name }}">
 </div>
 <div class="info">
-<h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+<h4>{{ member.name }}</h4>
 <h5>{{ member.info }}</h5>
 </div>
 </div>
@@ -89,12 +89,12 @@ permalink: /team/
 <div class="bx recent-updates">
 {% for member in site.data.team_members %}
 {% if member.group == 2 %}
-<div class="bx trainee">
+<div class="bx trainee clickable-div" data-href="{{ member.url }}">
 <div class="media">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="320" height="320" alt="{{ member.name }}">
 </div>
 <div class="info">
-<h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+<h4>{{ member.name }}</h4>
 <h5>{{ member.info }}</h5>
 </div>
 </div>
@@ -121,3 +121,13 @@ permalink: /team/
 {% endfor %}
 </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+document.querySelectorAll('.clickable-div').forEach(div => {
+div.addEventListener('click', function() {
+window.location.href = this.getAttribute('data-href');
+});
+});
+});
+</script>
