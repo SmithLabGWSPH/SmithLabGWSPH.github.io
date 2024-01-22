@@ -60,7 +60,7 @@ firstp {
 }
 
 /* Team & Publications */
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid img { margin: 16px 22px 6px 0; border-radius:50%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 2px 2px 2px 2px; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 8px; margin-left: 2px; margin-right: 2px; }
@@ -92,6 +92,7 @@ firstp {
 .content-photo {
 	padding-left: 6px;
 	padding-right: 6px;
+	border-radius: 50%;
 }
 
 /* headings */
@@ -99,6 +100,7 @@ firstp {
 	font-size: 48px;
 	line-height: 55px;
 	font-weight: 100;
+	margin-top: 25%;
 	/* Museo */
 }
 
@@ -165,4 +167,28 @@ color:black;
 
 .clear {
   clear: both;
+}
+
+.mt60 {
+  margin-top: 30px;
+}
+.footernav li {
+  margin-right: 15px;
+}
+.list-inline-item {
+  display: inline-block;
+}
+.list-inline-item:not(:last-child) {
+  margin-right: 0.5rem;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a.off {
+  color: inherit;
 }
