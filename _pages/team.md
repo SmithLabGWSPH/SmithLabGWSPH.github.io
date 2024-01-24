@@ -51,6 +51,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 {% endif %}
+
 </section>
 </div>
 <!-- Leadership section ends -->					
