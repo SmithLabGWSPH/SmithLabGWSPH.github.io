@@ -4,12 +4,6 @@
   url: emilysmith
   group: 0
 
-- name: Fouzia Farooq
-  photo: fouziafarooq.jpg
-  info: Assistant Professor
-  url: fouziafarooq
-  group: 0
-
 - name: Wen-chien Yang
   photo: wenchienyang.jpg
   info: PhD Student
@@ -39,6 +33,12 @@
   info: PhD Student
   url: xinyili
   group: 1
+
+- name: Fouzia Farooq
+  photo: fouziafarooq.jpg
+  info: Assistant Professor
+  url: fouziafarooq
+  group: 2
 
 - name: Xiaoyan Hu
   photo: xiaoyan-hu.jpeg

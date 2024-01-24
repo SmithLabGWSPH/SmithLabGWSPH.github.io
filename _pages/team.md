@@ -80,11 +80,11 @@ permalink: /team/
 
 <!-- Traniees section ends -->					
 
-<!-- Research Staff section starts -->					
+<!-- Research Team section starts -->					
 
 <section class="container">
 <div class="bx section-title-area">
-<h2 class="section-title">Research Staff</h2>
+<h2 class="section-title">Research Team</h2>
 </div>
 <div class="bx recent-updates">
 {% for member in site.data.team_members %}
