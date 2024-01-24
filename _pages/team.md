@@ -19,19 +19,14 @@ permalink: /team/
 </div>
 
 <!-- Leadership section starts here -->
-<!-- <div class="container-fluid"> -->
+<div class="container-fluid">
 <section class="container">
 <div class="bx section-title-area">
 <h2 class="section-title">Leadership</h2>
 </div>
 <div class="bx leadership-team">
-{% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 {% if member.group == 0 %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 0 %}
-
-{% endif %}
 <div class="bx team-main-bx clickable-div" data-href="{{ member.url }}">
 <div class="media">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="480" height="480" alt="{{ member.name }}">
@@ -42,17 +37,11 @@ permalink: /team/
 </div>
 </div>
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-{% assign number_printed = number_printed | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-{% endif %}
+</div>
 </section>
-<!-- </div> -->
+</div>
 <!-- Leadership section ends -->					
 
 <!-- Trainees section starts -->					
