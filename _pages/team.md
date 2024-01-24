@@ -19,7 +19,7 @@ permalink: /team/
 </div>
 
 <!-- Leadership section starts here -->
-<div class="container-fluid">
+<!-- <div class="container-fluid"> -->
 <section class="container">
 <div class="bx section-title-area">
 <h2 class="section-title">Leadership</h2>
@@ -51,9 +51,8 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 {% endif %}
-
 </section>
-</div>
+<!-- </div> -->
 <!-- Leadership section ends -->					
 
 <!-- Trainees section starts -->					
