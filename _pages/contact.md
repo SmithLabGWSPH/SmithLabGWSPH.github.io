@@ -9,7 +9,7 @@ permalink: /contact/
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
 <h1 class="w-txt">Contact</h1>
-<p class="a7-w-txt">We welcome new collaborations and innovations - get in touch!</p>
+<p class="a7-w-txt">Interested in our work? Follow us or reach out.</p>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
