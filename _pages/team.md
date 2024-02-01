@@ -10,7 +10,7 @@ permalink: /team/
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
 <h1 class="w-txt">Our Team</h1>
-<p class="a7-w-txt">Discover Our Team: Get to Know the Passionate Professionals Committed to Excellence in Our Department.</p>
+<p class="a7-w-txt">Get to know the team.</p>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
