@@ -85,7 +85,7 @@ permalink: /
 <section class="container">
 <div class="bx section-title-area">
 <h2 class="section-title">Our Research</h2>
-<h6>Featured researches</h6>
+<h6>Featured research</h6>
 </div>
 
 <div class="bx recent-updates">
