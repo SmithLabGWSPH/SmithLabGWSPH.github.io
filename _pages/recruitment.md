@@ -9,8 +9,8 @@ permalink: /recruitment/
 <div class="container-fluid our-team">
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
-<h1 class="w-txt">Open positions</h1>
-<p class="a7-w-txt">Thank you for your interest in joining the Smith Lab.</p>
+<h1 class="w-txt">Join Us</h1>
+<p class="a7-w-txt">We are constantly growing and looking for new team members. Check out our listings and apply; if you don't see what you're looking for, get in touch.</p>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
