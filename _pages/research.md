@@ -9,8 +9,8 @@ permalink: /research/
 <div class="container-fluid our-team">
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
-<h1 class="w-txt">Research Highlights</h1>
-<p class="a7-w-txt">Explore Our Research: Dive into Our Ongoing Endeavors and Past Projects Shaping the Future of Our Field.</p>
+<h1 class="w-txt">Our Work</h1>
+<p class="a7-w-txt">Explore our current and past research projects.</p>
 </div>
 </section>
 </div>
@@ -24,8 +24,8 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/PRISMA.png" width="552" height="552" alt="Article title goes here">
 </div>
 <div class="bx info">
-<h2>Pregnancy Risk and Infant Surveillance and Measurement Alliance Maternal and Newborn Health Study</h2>
-<p>Dr. Smith is a principal investigator for the Pregnancy Risk and Infant Surveillance and Measurement Alliance Maternal and Newborn Health (PRISMA MNH) Study: a multi-center, prospective cohort study of maternal, newborn, and infant health in Kenya, Ghana, Pakistan, Zambia and India. The overarching aim is to address the significant gaps in antenatal, intrapartum, and postpartum care, high rates of maternal and neonatal morbidity and mortality, and the limited population-level data in low- and middle-income countries needed to develop interventions. Ultimately, researchers seek to produce high-dimensional, high-quality, harmonized data on pregnancy risk factors and key health outcomes throughout the antenatal, intrapartum, and postpartum periods.
+<h2>Pregnancy Risk, Infant Surveillance, and Measurement Alliance Maternal and Newborn Health Study</h2>
+<p>Dr. Smith is a principal investigator for the Pregnancy Risk, Infant Surveillance, and Measurement Alliance Maternal and Newborn Health (PRISMA MNH) Study: a multi-center, prospective cohort study of maternal, newborn, and infant health in Kenya, Ghana, Pakistan, Zambia and India. The overarching aim is to address the significant gaps in antenatal, intrapartum, and postpartum care, high rates of maternal and neonatal morbidity and mortality, and the limited population-level data in low- and middle-income countries needed to develop interventions. Ultimately, researchers seek to produce high-dimensional, high-quality, harmonized data on pregnancy risk factors and key health outcomes throughout the antenatal, intrapartum, and postpartum periods.
 <br><br>
 Specific PRISMA MNH study objectives include: improving global understanding of key risk factors for morbidity and mortality among pregnant women and their babies; providing population-based baseline estimates of major maternal and child health outcomes; and enabling the use of novel analytical techniques to create risk prediction tools. The study aims to enroll approximately 20,000 pregnant women across sites over three years. Expectant mothers are enrolled prior to 20 weeks gestation and followed up through one year postpartum. PRISMA MNH collects data on outcomes such as maternal mortality, maternal anemia, stillbirth, and preterm birth, among other primary and secondary outcomes. Among other responsibilities, our team ensures that the PRISMA MNH protocol is implemented consistently, standardizes data collection and analysis, maintains a central data warehouse, supports publication of multisite papers and dissemination of key findings, and organizes across-site training and capacity building.</p>
 </div>
