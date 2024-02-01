@@ -4,7 +4,7 @@
   url: emilysmith
   group: 0
 
-- name: Wen-chien Yang
+- name: Wen-Chien Yang
   photo: wenchienyang.jpg
   info: PhD Student
   url: wenchienyang
@@ -42,13 +42,13 @@
 
 - name: Xiaoyan Hu
   photo: xiaoyan-hu.jpeg
-  info: Senior Research Associate, Data Management
+  info: Senior Data Manager
   url: xiaoyanhu
   group: 2
 
 - name: Stacie Loisate
   photo: stacie-loisate.jpg
-  info: Senior Research Associate, Data Management
+  info: Senior Data Manager
   url: stacieloisate
   group: 2
 
@@ -60,7 +60,7 @@
 
 - name: Erin Oakley
   photo: erinoakley.jpg
-  info: Senior Research Associate
+  info: Senior Data Manager
   url: erinoakley
   group: 2
 
