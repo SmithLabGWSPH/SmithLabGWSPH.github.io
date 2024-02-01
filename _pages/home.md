@@ -29,8 +29,7 @@ permalink: /
 <!--publication section starts here-->
 <section class="container">
 <div class="bx section-title-area">
-<h2 class="section-title">Publications</h2>
-<h6>Featured publications</h6>
+<h2 class="section-title">Featured Publications</h2>
 </div>
 <div class="bx recent-updates">
 <a href="https://gh.bmj.com/content/8/1/e009495.abstract" class="bx recent-bx" target="_blank">
@@ -84,8 +83,7 @@ permalink: /
 <!--research section starts here-->
 <section class="container">
 <div class="bx section-title-area">
-<h2 class="section-title">Our Research</h2>
-<h6>Featured research</h6>
+<h2 class="section-title">Featured Research Projects</h2>
 </div>
 
 <div class="bx recent-updates">
@@ -116,7 +114,7 @@ permalink: /
 <!--research section starts here-->
 <section class="container">
 <div class="bx section-title-area">
-<h2 class="section-title">Media Coverage</h2>
+<h2 class="section-title">Recent Media Coverage</h2>
 </div>
 <div class="bx recent-media">
 <div class="bx">
