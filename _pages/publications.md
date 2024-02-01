@@ -10,7 +10,7 @@ permalink: /publications/
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
 <h1 class="w-txt">Publications</h1>
-<p class="a7-w-txt">Discover the Depth and Breadth of Our Academic Endeavors Through an Extensive Collection of Publications</p>
+<p class="a7-w-txt">Check out some of our recent publications below.</p>
 </div>
 </section>
 </div>
