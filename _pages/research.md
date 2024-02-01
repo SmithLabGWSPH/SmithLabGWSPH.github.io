@@ -108,7 +108,7 @@ There is clear evidence that micronutrient supplementation during pregnancy can 
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Early_Breastfeeding-1.png" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Early_Breastfeeding-2.png" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Effects of Early Breastfeeding Initiation on Infant Morbidity and Mortality</h2>
