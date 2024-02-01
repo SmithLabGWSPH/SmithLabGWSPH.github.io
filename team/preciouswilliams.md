@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Precious Williams
-position: Research Assistant
+position: Research Associate
 handle: 
 email: williams_pj@gwmail.gwu.edu
 linkedin: precious-williams-5780a3113
@@ -19,7 +19,7 @@ photo: preciouswilliams.png
 </div>
 <h4>Education</h4>
 <ul>
-<li>MPH Candidate, Global Health Epidemiology and Disease Control, George Washington University, DC<li>
+<li>MPH Candidate, Global Health Epidemiology and Disease Control, George Washington University, DC</li>
 <li>BS, Microbiology, University of Lagos, Nigeria</li>
 </ul>
 </div>
