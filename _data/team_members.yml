@@ -85,16 +85,16 @@
 #   url: claraparsons
 #   group: 2
 
-- name: Molayo Ifebajo
-  photo: molayoifebajo.jpg
-  info: Research Assistant
-  url: molayoifebajo
-  group: 2
-
 - name: Precious Williams
   photo: preciouswilliams.png
   info: Research Associate
   url: preciouswilliams
+  group: 2
+
+- name: Molayo Ifebajo
+  photo: molayoifebajo.jpg
+  info: Research Assistant
+  url: molayoifebajo
   group: 2
 
 # - name: Aileen Poquiz
