@@ -118,25 +118,25 @@ permalink: /
 </div>
 <div class="bx recent-media">
 <div class="bx">
-<a href="https://www.goodhousekeeping.com/health/a46341810/baby-formula-recall/" class="bx media-coverage">
+<a href="https://www.goodhousekeeping.com/health/a46341810/baby-formula-recall/" class="bx media-coverage" target="_blank">
 <h4 class="title">'What Baby Formula Has Been Recalled? Everything Parents Need to Know'</h4>
 <h6 class="info">Quoted in <span class="imp-txt">Good Housekeeping</span> on Jan 10, 2024</h6>
 </a>
 </div>
 <div class="bx">
-<a href="https://thehill.com/policy/healthcare/3815531-meta-study-highlights-covid-dangers-during-pregnancy/" class="bx media-coverage">
+<a href="https://thehill.com/policy/healthcare/3815531-meta-study-highlights-covid-dangers-during-pregnancy/" class="bx media-coverage" target="_blank">
 <h4 class="title">‘Meta-study highlights COVID dangers during pregnancy'</h4>
 <h6 class="info">Research covered in <span class="imp-txt">The Hill</span> on Jan 16, 2023</h6>
 </a>
 </div>
 <div class="bx">
-<a href="https://www.popsci.com/health/covid-death-tracker-accuracy/" class="bx media-coverage">
+<a href="https://www.popsci.com/health/covid-death-tracker-accuracy/" class="bx media-coverage" target="_blank">
 <h4 class="title">'Machine learning is finally helping us track COVID deaths faster and more accurately.'</h4>
 <h6 class="info">Research quoted in <span class="imp-txt">Popular Science</span> on July 13, 2022</h6>
 </a>
 </div>
 <div class="bx">
-<a href="https://www.nationalgeographic.com/premium/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why" class="bx media-coverage">
+<a href="https://www.nationalgeographic.com/premium/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why" class="bx media-coverage" target="_blank">
 <h4 class="title">'Many women struggle to breastfeed. Scientists are starting to ask why.'</h4>
 <h6 class="info">Research covered in <span class="imp-txt">National Geographic</span> on June 17, 2022</h6>
 </a>
