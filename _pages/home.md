@@ -111,34 +111,34 @@ permalink: /
 </section>
 <!--research section ends-->
 
-<!--research section starts here-->
+<!--media coverage section starts here-->
 <section class="container">
 <div class="bx section-title-area">
 <h2 class="section-title">Recent Media Coverage</h2>
 </div>
 <div class="bx recent-media">
 <div class="bx">
-<a href="#" class="bx media-coverage">
+<a href="https://www.goodhousekeeping.com/health/a46341810/baby-formula-recall/" class="bx media-coverage">
+<h4 class="title">'What Baby Formula Has Been Recalled? Everything Parents Need to Know'</h4>
+<h6 class="info">Quoted in <span class="imp-txt">Good Housekeeping</span> on Jan 10, 2024</h6>
+</a>
+</div>
+<div class="bx">
+<a href="https://thehill.com/policy/healthcare/3815531-meta-study-highlights-covid-dangers-during-pregnancy/" class="bx media-coverage">
+<h4 class="title">‘Meta-study highlights COVID dangers during pregnancy'</h4>
+<h6 class="info">Research covered in <span class="imp-txt">The Hill</span> on Jan 16, 2023</h6>
+</a>
+</div>
+<div class="bx">
+<a href="https://www.popsci.com/health/covid-death-tracker-accuracy/" class="bx media-coverage">
 <h4 class="title">'Machine learning is finally helping us track COVID deaths faster and more accurately.'</h4>
 <h6 class="info">Research quoted in <span class="imp-txt">Popular Science</span> on July 13, 2022</h6>
 </a>
 </div>
 <div class="bx">
-<a href="#" class="bx media-coverage">
+<a href="https://www.nationalgeographic.com/premium/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why" class="bx media-coverage">
 <h4 class="title">'Many women struggle to breastfeed. Scientists are starting to ask why.'</h4>
 <h6 class="info">Research covered in <span class="imp-txt">National Geographic</span> on June 17, 2022</h6>
-</a>
-</div>
-<div class="bx">
-<a href="#" class="bx media-coverage">
-<h4 class="title">'COVID-19 in Africa | Study confirms pregnant women at high risk.'</h4>
-<h6 class="info">Research covered by <span class="imp-txt">eNews Channel Africa</span> on June 9, 2022</h6>
-</a>
-</div>
-<div class="bx">
-<a href="#" class="bx media-coverage">
-<h4 class="title">‘positive correlation’ between higher mask usage and COVID-19 deaths.'</h4>
-<h6 class="info">Quoted in <span class="imp-txt">Politifact:Fact Check</span> on May 27, 2022</h6>
 </a>
 </div>
 </div>
