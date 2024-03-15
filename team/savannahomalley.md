@@ -8,7 +8,7 @@ twitter:
 github:
 scholar: 
 linkedin: 
-photo: savannah-omalley.jpeg
+photo: savannahomalley.jpg
 gwu: 
 ---
 
