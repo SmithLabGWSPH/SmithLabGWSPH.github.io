@@ -6,8 +6,8 @@ handle:
 email: savannah.omalley@gwu.edu
 twitter: OMalleySavannah 
 github: 
-scholar: Bys1R3oAAAAJ&hl
-linkedin: sfomalley
+scholar: Bys1R3oAAAAJ
+linkedin: in/sfomalley
 photo: savannah_o_malley.jpg
 gwu: 
 ---
