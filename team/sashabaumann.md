@@ -21,8 +21,8 @@ ucsf:
 </div>
 <h4>Education</h4>
 <ul>
-<li>MSc Public Health for Development, London School of Hygiene and Tropical Medicine</li>
-<li>BA Psychology and Spanish, Grinnell College</li>
+<li>MSc, Public Health for Development, London School of Hygiene and Tropical Medicine, UK</li>
+<li>BA, Psychology, Grinnell College, IA</li>
 </ul>
 </div>
 </section>
