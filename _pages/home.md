@@ -89,7 +89,7 @@ permalink: /
 <div class="bx recent-updates">
 <a href="/research" class="bx research-bx">
 <div class="media">
-<img src="images/Prisma_main.png" width="552" height="552" alt="PRISMA">
+<img src="images/Prisma_main.png" width="300" height="300" alt="PRISMA">
 </div>
 <div class="bx info">
 <h3 class="title">Pregnancy Risk and Infant Surveillance and Measurement Alliance Maternal and Newborn Health Study</h3>
@@ -98,7 +98,7 @@ permalink: /
 
 <a href="/research" class="bx research-bx">
 <div class="media">
-<img src="images/large-square-image-02.jpg" width="552" height="552" alt="Research title goes here">
+<img src="images/large-square-image-02.jpg" width="300" height="300" alt="COVID PMA">
 </div>
 <div class="bx info">
 <h3 class="title">Perinatal COVID-19 Sequential Prospective Meta-Analysis Project</h3>
