@@ -11,7 +11,7 @@ permalink: /
 <div class="container-fluid top-area">
 <div class="container">
 <div class="hero-banner">
-<img src="images/banner01.jpg" width="1140" height="500" alt="Smith Lab">
+<img src="images/banner01.jpg" width="1140" height="400" alt="Smith Lab">
 </div>
 
 <section class="container">
