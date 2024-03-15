@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jaime Marquis
-position: Senior Research Associate
+position: Research Associate
 handle: 
 email: jmarquis@gwu.edu
 twitter:
