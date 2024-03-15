@@ -4,10 +4,10 @@ title: Savannah O'Malley
 position: Senior Data Manager
 handle: 
 email: savannah.omalley@gwu.edu
-twitter: 
+twitter: OMalleySavannah 
 github: 
-scholar: https://scholar.google.com/citations?user=Bys1R3oAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/sfomalley
+scholar: Bys1R3oAAAAJ&hl
+linkedin: sfomalley
 photo: savannah_o_malley.jpg
 gwu: 
 ---
