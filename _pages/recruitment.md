@@ -26,7 +26,7 @@ permalink: /recruitment/
 </div>
 <div class="row">
 <div class="col-md-12">
-<p>If you are interested in practicing Culminating Experience (CE) in the Smith Lab, please contact Dr. Smith directly using the details on her [GWU profile page](https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/emily-smith). We are primarily a epidemiology lab working on global maternal, neonatal and child health, so a background in public health, academic writing and coding (STATA/R) helps students make the most of their success.</p>
+<p>If you are a graduate student interested in carrying out your Culminating Experience (CE) in the Smith Lab, please contact Dr. Smith directly using the details on her [GW profile page](https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/emily-smith). We are primarily a epidemiology lab working on global maternal, neonatal and child health, so a background in public health, academic writing, and coding (STATA/R) helps students make the most of their success.</p>
 </div>
 </div>
 
@@ -35,7 +35,7 @@ permalink: /recruitment/
 </div>
 <div class="row">
 <div class="col-md-12">
-<p>The lab offers a collaborative and supportive environment to help students develop and begin their own independent research careers.  We are looking for researchers with a strong background in public health specialized in maternal, fetal, and perinatal health. If you are interested, please contact Dr. Smith directly using the details on her [GWU profile page](https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/emily-smith).</p>
+<p>The lab offers a collaborative and supportive environment to help students develop and begin their own independent research careers.  We are looking for researchers with a strong background in public health specialized in maternal, fetal, and perinatal health. If you are interested, please contact Dr. Smith directly using the details on her [GW profile page](https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/emily-smith).</p>
 </div>
 </div>
 
