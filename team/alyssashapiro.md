@@ -8,7 +8,7 @@ twitter:
 github:
 scholar: xBLm_xIAAAAJ&hl=en&oi=ao
 linkedin: alyssa-shapiro-9246b146
-photo: 
+photo: Shapiro_Headshot.jpg
 ucsf: 
 ---
 
