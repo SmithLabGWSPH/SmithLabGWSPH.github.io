@@ -73,7 +73,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/large-square-image-02.jpg" width="552" height="552" alt="Article title goes here"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/pma-image.jpg" width="552" height="552" alt="Article title goes here"> 
 </div>
 <div class="bx info">
 <h2>Perinatal COVID-19 Sequential Prospective Meta-Analysis Project</h2>
@@ -93,7 +93,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Neonatal_trial.png" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/nvas-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Neonatal Vitamin A Supplementation Randomized Controlled Trial</h2>
@@ -103,7 +103,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Early_Breastfeeding-2.png" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/breastfeed-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Effects of Early Breastfeeding Initiation on Infant Morbidity and Mortality</h2>
@@ -114,7 +114,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Viral_Diarrhea.png" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/rotavirus-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Immunology, Epidemiology, and Burden of Viral Diarrhea</h2>
