@@ -41,7 +41,7 @@ permalink: /research/
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/mms-image.jpg" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/iron-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Trial to Evaluate Optimal Iron Amount in MMS</h2>
