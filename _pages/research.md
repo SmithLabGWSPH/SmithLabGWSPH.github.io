@@ -31,7 +31,7 @@ permalink: /research/
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/maternal_anemia_study.jpg" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/remapp-image.jpeg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Redefining Maternal Anemia in Pregnancy and Postpartum Study</h2>
