@@ -63,7 +63,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Pregnancy_Trial_in_Ghana.png" width="552" height="552" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/adopt-image.jpeg" width="552" height="552" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Adverse Outcomes in Pregnancy Trial Ghana</h2>
