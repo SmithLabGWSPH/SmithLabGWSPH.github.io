@@ -93,7 +93,7 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 
 <div class="bx article">
 <div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/nvas-image.jpg" width="300" height="300" alt="Article title goes here">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/new-nvas-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
 <h2>Neonatal Vitamin A Supplementation Randomized Controlled Trial</h2>
