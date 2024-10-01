@@ -25,7 +25,7 @@ permalink: /research/
 </div>
 <div class="bx info">
 <h2>PRISMA Maternal and Newborn Health Study</h2>
-<p>Dr. Smith is a principal investigator for the Pregnancy Risk, Infant Surveillance, and Measurement Alliance (PRISMA) Maternal and Newborn Health Study: a multi-center, prospective cohort study of ~20,000 moms and 16,000 babies in Kenya, Ghana, Pakistan, Zambia and India. PRISMA aims to address gaps in maternity care, high rates of maternal and neonatal morbidity and mortality, and the limited population-level data in low- and middle-income countries needed to develop interventions. Researchers seek to produce harmonized data on pregnancy risk factors and key health outcomes throughout pregnancy and up to one year postpartum. Among other responsibilities, the GW team ensures that the study protocol is implemented consistently, standardizes data collection and analysis, maintains a central data warehouse, supports publication of multisite papers and dissemination of key findings, and organizes across-site training and capacity building. Read more here: https://prisma-mnh.org/</p>
+<p>Dr. Smith is a principal investigator for the Pregnancy Risk, Infant Surveillance, and Measurement Alliance (PRISMA) Maternal and Newborn Health Study: a multi-center, prospective cohort study of ~20,000 moms and 16,000 babies in Kenya, Ghana, Pakistan, Zambia and India. PRISMA aims to address gaps in our understanding of the burden and causes of maternal, fetal, and infant morbidity and mortality. The study seeks to produce harmonized data on pregnancy risk factors and key health outcomes throughout pregnancy and up to one year postpartum. Among other responsibilities, our team at GW serves as the protocol, data, and laboratory harmonization center, supporting consistent protocol implementation, standardized data collection and analysis, maintainence of a central data warehouse, and publication and dissemination of key findings. We also organize across-site training and capacity building. Read more here: https://prisma-mnh.org/</p>
 </div>
 </div>
 
@@ -34,8 +34,8 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/remapp-image.jpeg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
-<h2>ReMAPP Study</h2>
-<p>Dr. Smith and colleague Dr. Kwaku Poku Asante at the Kintampo Health Research Centre in Ghana are co-Principal Investigators for the Redefining Maternal Anemia in Pregnancy and Postpartum (ReMAPP) study. Recent evidence indicates that a reevaluation of hemoglobin thresholds during pregnancy is needed to better diagnose anemia. ReMAPP seeks to advance clinical knowledge of anemia during pregnancy and contribute high-quality data toward establishing more globally-representative hemoglobin thresholds. This multicenter, population-based study will enroll 1,600 to 2,000 women at each of the six sites in Kenya, Ghana, Zambia, India, and Pakistan. Women will be enrolled in their first trimester and undergo serial measurements of hemoglobin by complete blood count through 6 weeks postpartum. Hemoglobin thresholds will be established using multiple approaches (reference limits in a healthy subpopulation and clinical decision limits) and anemia etiology during pregnancy will be explored. </p>
+<h2>Redefining Anemia in Pregnancy & Postpartum (ReMAPP) Study</h2>
+<p>Dr. Smith and colleague Dr. Kwaku Poku Asante at the Kintampo Health Research Centre in Ghana are co-Principal Investigators for the Redefining Maternal Anemia in Pregnancy and Postpartum (ReMAPP) study. Recent evidence indicates that a reevaluation of hemoglobin thresholds during pregnancy is needed to better diagnose anemia. ReMAPP seeks to advance clinical knowledge of anemia during pregnancy and contribute high-quality data toward establishing more globally-representative hemoglobin thresholds. This multicenter, population-based study will enroll up to 12,000 women at each of the six sites in Kenya, Ghana, Zambia, India, and Pakistan. Women will be enrolled early in pregnancy and undergo serial measurements of hemoglobin by complete blood count through 6 weeks postpartum. Hemoglobin thresholds will be established using multiple approaches (reference limits in a healthy subpopulation and clinical decision limits) and anemia etiology during pregnancy will be explored. </p>
 </div>
 </div>
 
@@ -44,8 +44,8 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/iron-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
-<h2>Trial to Evaluate Optimal Iron Amount in MMS</h2>
-<p>To address specific research questions related to the optimal amount of iron to include in Multiple Micronutrient Supplementation (MMS), Dr. Smith and colleagues are conducting an individually randomized controlled trial to assess the effect of MMS containing 60 and 45 mg iron as compared to MMS that contains 30 mg of iron (standard iron dose in UNIMAP MMS formulation) on maternal anemia and other important maternal and newborn health outcomes. This study will also assess side effects and adherence to better understand w. The trial will be conducted in Dar es Salaam, Tanzania, in collaboration with colleagues at Ifakara Health Institute, Africa Academy of Public Health, Muhimbili University of Health and Allied Sciences, and Harvard TH Chan School of Public Health. This study will help inform countries like Tanzania (that currently use IFA containing 60 mg of iron) as they transition to using MMS.
+<h2>	Multiple Micronutrient Supplementation for Maternal Anemia Prevention in Tanzania (MMS-MAP)</h2>
+<p>What is the optimal daily dose of iron to include in Multiple Micronutrient Supplementation (MMS) in pregnancy? Dr. Smith and colleagues are conducting an individually randomized controlled trial to assess the effect of MMS containing 60 and 45 mg iron as compared to MMS that contains 30 mg of iron (standard iron dose in UNIMAP MMS formulation) on maternal anemia and other important maternal and newborn health outcomes. This study will also assess side effects and adherence. The trial will be conducted in Dar es Salaam, Tanzania, in collaboration with colleagues at Ifakara Health Institute, Africa Academy for Public Health, Muhimbili University of Health and Allied Sciences, and Harvard TH Chan School of Public Health. This study will help inform countries like Tanzania (that currently use IFA containing 60 mg of iron) as they transition to using MMS. (https://clinicaltrials.gov/study/NCT06079918)
 </p>
 </div>
 </div>
@@ -57,7 +57,7 @@ permalink: /research/
 <div class="bx info">
 <h2>Molecular Methods for Maternal Nutrition</h2>
 <p>
-Dr. Smith is further evaluating optimal nutrition during pregnancy through the Molecular Methods for Maternal Nutrition (MM4MN) study, focusing on vitamin B12. This project aims to enhance understanding of the bioavailability of vitamin B12 during pregnancy in patients with sufficient and insufficient baseline B12 status. Further, this study aims to identify the priority dose regimens of vitamin B12 in pregnancy to be investigated in future phase clinical trials & identify novel biomarkers of vitamin B12 intake that are suitable for pregnancy. This study is conducted alongside colleagues at Penn State University, Baylor College of Medicine, University of Maryland School of Pharmacy, Ifakara Health Institute, and Muhimbili University of Health & Allied Sciences.
+Dr. Smith is studying optimal nutrition during pregnancy through the Molecular Methods for Maternal Nutrition (MM4MN) project, including a trial on vitamin B12. This project aims to enhance understanding of the bioavailability of vitamin B12 during pregnancy in patients with sufficient and insufficient baseline B12 status. Further, this study aims to identify the priority dose regimens of vitamin B12 in pregnancy to be investigated in future phase clinical trials & identify novel biomarkers of vitamin B12 intake that are suitable for pregnancy. This study is conducted alongside colleagues at Penn State University, Baylor College of Medicine, University of Maryland School of Pharmacy, Ifakara Health Institute, and Muhimbili University of Health & Allied Sciences. (https://clinicaltrials.gov/study/NCT05426395)
 </p>
 </div>
 </div>
@@ -74,19 +74,9 @@ Dr. Smith is further evaluating optimal nutrition during pregnancy through the M
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/mms-image.jpg" width="300" height="300" alt="Article title goes here">
 </div>
 <div class="bx info">
-<h2>Analysis of Multivitamins in Pregnancy</h2>
+<h2>Multiple Micronutrient Supplementation (MMS) in Pregnancy</h2>
 <p>Dr. Smith led pooling and analysis for an individual patient data meta-analysis intended to inform policy surrounding Multiple Micronutrient Supplementation (MMS) in pregnancy (Smith et al. Lancet Global Health. 2017). Despite concerns about potential health risks raised in the World Health Organization (WHO) 2016 Antenatal Care Guidelines, the meta-analysis and a second study published in the Journal of Nutrition (Smith & Sudfeld. 2019) found clear evidence that MMS containing iron and folic acid is safe and superior to iron and folic acid alone. MMS in pregnancy reduces the risk of low birth weight, preterm birth, and being born small-for-gestational-age. Further, MMS reduces the risk of neonatal and infant mortality for girls, and there was no evidence of increased risk among the 26 subgroups examined. Dr. Smith is a member of the Taskforce on Maternal Micronutrient Supplementation in Pregnancy hosted by the New York Academy of Sciences and is an advocate for improving evidence-based maternal nutrition services during pregnancy.
 </p>
-</div>
-</div>
-
-<div class="bx article">
-<div class="media">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/adopt-image.jpeg" width="552" height="552" alt="Article title goes here">
-</div>
-<div class="bx info">
-<h2>Adverse Outcomes in Pregnancy Trial Ghana</h2>
-<p>The Adverse Outcomes in Pregnancy Trial (AdOPT) research programme, led by Dr. Kwkau Poku Asante at the Kintampo Health Research Centre in Ghana with technical coordination from Dr. Emily Smith, consisted of two phases. AdOPT Phase I developed a pregnancy identification and outcome surveillance system to establish the prevalence rates of preeclampsia, stillbirth, preterm birth, small for gestational age, and low birthweight among 12,000 pregnant participants in the study area. AdOPT Phase II implemented an individually randomized clinical trial to identify effective nutritional interventions to improve birth outcomes across antenatal and postnatal care.</p>
 </div>
 </div>
 
