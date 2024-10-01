@@ -15,13 +15,6 @@ permalink: /publications/
 </section>
 </div>
 
-<div class="bx txt-a-c cta-wrapper">
-<a href="https://scholar.google.com/citations?hl=en&user=qQx4iIwAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-primary" target="_blank">See Complete List</a>
-</div>
-</section>
-<!-- Publication section ends -->
-</div>
-
 <div class="container-fluid">
 <!-- Publication section starts here -->
 <section class="container">
@@ -48,6 +41,13 @@ permalink: /publications/
 {% endfor %}
 </div>
 {% endfor %}
+
+<div class="bx txt-a-c cta-wrapper">
+<a href="https://scholar.google.com/citations?hl=en&user=qQx4iIwAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-primary" target="_blank">See Complete List</a>
+</div>
+</section>
+<!-- Publication section ends -->
+</div>
 
 <script>
 document.addEventListener('DOMContentLoaded', (event) => {
