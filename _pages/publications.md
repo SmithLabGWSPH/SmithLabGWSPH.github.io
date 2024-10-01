@@ -6,13 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-<div class="bx txt-a-c cta-wrapper">
-<a href="https://scholar.google.com/citations?hl=en&user=qQx4iIwAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-primary" target="_blank">See Complete List</a>
-</div>
-</section>
-<!-- Publication section ends -->
-</div>
-
 <div class="container-fluid our-team">
 <section class="container">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 x-p">
@@ -20,6 +13,13 @@ permalink: /publications/
 <p class="a7-w-txt">Check out some of our recent publications below.</p>
 </div>
 </section>
+</div>
+
+<div class="bx txt-a-c cta-wrapper">
+<a href="https://scholar.google.com/citations?hl=en&user=qQx4iIwAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-primary" target="_blank">See Complete List</a>
+</div>
+</section>
+<!-- Publication section ends -->
 </div>
 
 <div class="container-fluid">
