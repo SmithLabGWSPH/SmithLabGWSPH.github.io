@@ -23,7 +23,7 @@ gwu: emily-smith
 <h4>Education</h4>
 <ul>
 <li>ScD, Harvard T.H. Chan School of Public Health, MA</li>
-<li>MPH, Emory University, GA</li>
+<li>MPH, Emory University Rollines School of Public Health, GA</li>
 <li>BA, Northwestern University, IL</li>
 </ul>
 </div>
