@@ -90,14 +90,13 @@
   year: 2020-2022
   extlink: https://www.linkedin.com/in/sashagb/
 
-
 - name: Jaime Marquis
   photo: jaimemarquis.png
   info: Research Associate
   url: jaimemarquis
   group: 2
 
-  - name: Jaime Minchin
+- name: Jaime Minchin
   photo: jamieminchin.png
   info: Senior Research Associate
   url: jamieminchin
