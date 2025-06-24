@@ -4,7 +4,29 @@
   authors: 
   link:
     url: https://link.springer.com/article/10.1186/s13063-025-08906-7
-    display:  Smith et al.
+    display:  Smith et al. Springer Nature Link
+  highlight: 1
+  news2:
+  year: 2025
+
+- title: "Contribution of maternal adherence to the effect of multiple micronutrient supplementation during pregnancy: a systematic review and individual participant data meta-analysis"
+  image: sciencedirect.png
+  description:
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2161831325000912
+    display:  Smith et al. Science Direct
+  highlight: 1
+  news2:
+  year: 2025
+
+- title: "Antenatal corticosteroids for pregnant women at risk of preterm labour in low- and middle-income countries: utilisation and facility readiness"
+  image: jogh.png
+  description:
+  authors: 
+  link:
+    url: https://jogh.org/2025/jogh-15-04149
+    display:  Yang et al. Journal of Global Health
   highlight: 1
   news2:
   year: 2025
