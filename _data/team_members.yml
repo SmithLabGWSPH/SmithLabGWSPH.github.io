@@ -4,22 +4,16 @@
   url: emilysmith
   group: 0
 
-- name: Wen-Chien Yang
-  photo: wenchienyang.jpg
-  info: PhD Student
-  url: wenchienyang
+- name: Alyssa Shapiro
+  photo: Shapiro_Headshot.jpg
+  info: Postdoctoral Researcher
+  url: alyssashapiro
   group: 1
 
 - name: Ramaa Chitale
   photo: ramaachitale.jpg
   info: DrPH Student
   url: ramaachitale
-  group: 1
-
-- name: Megan Talej
-  photo: megantalej.jpg
-  info: PhD Student
-  url: megantalej
   group: 1
 
 - name: Jenny Kim
@@ -40,17 +34,17 @@
   url: yipengwei
   group: 1
 
-- name: Fouzia Farooq
-  photo: fouziafarooq.jpg
-  info: Assistant Professor
-  url: fouziafarooq
-  group: 2
+- name: Nazia Binte Ali
+  photo: naziabinteali.png
+  info: Postdoctoral Researcher
+  url: naziabinteali
+  group: 1
 
-- name: Xiaoyan Hu
-  photo: xiaoyan-hu.jpeg
-  info: Senior Data Manager
-  url: xiaoyanhu
-  group: 2
+- name: Wen-Chien Yang
+  photo: wenchienyang.jpg
+  info: PhD Student
+  url: wenchienyang
+  group: 2  
 
 - name: Stacie Loisate
   photo: stacie-loisate.jpg
@@ -74,12 +68,6 @@
   photo: savannah_o_malley.jpg
   info: Senior Research Associate
   url: savannahomalley
-  group: 2
-
-- name: Alyssa Shapiro
-  photo: Shapiro_Headshot.jpg
-  info: Postdoctoral Researcher
-  url: alyssashapiro
   group: 2
 
 - name: Sasha Baumann
@@ -131,6 +119,33 @@
 #   info: Bioinformatics Programmer II
 #   url: lindsayliang
 #   group: 3
+
+- name: Fouzia Farooq
+  photo: 
+  info: Postdoctoral Researcher & Assistant Professor
+  url: 
+  group: 8
+  year: 2022-2025
+  current: 
+  extlink: https://www.linkedin.com/in/fouziafarooq/
+
+- name: Xiaoyan Hu
+  photo: 
+  info: Senior Data Manager
+  url: 
+  group: 8
+  year: 2022-2024
+  current: 
+  extlink: https://www.linkedin.com/in/xiaoyan-hu-24331742
+
+- name: Megan Talej
+  photo: 
+  info: Senior Research Associate
+  url: 
+  group: 8
+  year: 2021-2023
+  current: 
+  extlink: https://www.linkedin.com/in/megantalej/
 
 - name: Clara Parsons
   photo: 
