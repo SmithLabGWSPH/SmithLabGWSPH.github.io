@@ -10,6 +10,12 @@
   url: alyssashapiro
   group: 1
 
+- name: Megan Talej
+  photo: megantalej.jpg
+  info: PhD Student
+  url: megantalej
+  group: 1
+
 - name: Ramaa Chitale
   photo: ramaachitale.jpg
   info: DrPH Student
@@ -122,7 +128,7 @@
 
 - name: Fouzia Farooq
   photo: 
-  info: Postdoctoral Researcher & Assistant Professor
+  info: Postdoctoral Researcher & Assistant Research Professor
   url: 
   group: 8
   year: 2022-2025
@@ -137,15 +143,6 @@
   year: 2022-2024
   current: 
   extlink: https://www.linkedin.com/in/xiaoyan-hu-24331742
-
-- name: Megan Talej
-  photo: 
-  info: Senior Research Associate
-  url: 
-  group: 8
-  year: 2021-2023
-  current: 
-  extlink: https://www.linkedin.com/in/megantalej/
 
 - name: Clara Parsons
   photo: 
